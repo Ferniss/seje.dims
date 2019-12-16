@@ -1,0 +1,19 @@
+{
+  "name": "@furnerdude/seje-dims",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferniss/seje.dims.git"
+  },
+  "author": "Mathias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ferniss/seje.dims/issues"
+  },
+  "homepage": "https://github.com/Ferniss/seje.dims#readme"
+}
